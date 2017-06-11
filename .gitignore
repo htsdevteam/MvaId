@@ -75,3 +75,4 @@ UpgradeLog*.htm
 # SQL Server files
 *.mdf
 *.ldf
+*.dbmdl
